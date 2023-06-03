@@ -1,7 +1,8 @@
-# Voting Platfom 
+# Voting Platfom
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+### Contract deployed on mumbai testnet at : "0x6D2388Cb9f354E49a012a3B3489943628cA9ACBb"
 
+<br>
 Try running some of the following tasks:
 
 ```shell
