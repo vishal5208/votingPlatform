@@ -11,7 +11,7 @@ async function verifyContracts(contractInfo) {
 
 const contractsToVerify = [
 	{
-		address: "0x6D2388Cb9f354E49a012a3B3489943628cA9ACBb",
+		address: "0x5539bbe1457ddC7A7C3d9d09e43c306c1Aa9D996",
 		args: [],
 	},
 ];
